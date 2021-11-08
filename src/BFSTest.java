@@ -11,7 +11,7 @@ import java.util.*;
  * @author Isaac J. Nuno
  * @version 2.0, 06 Nov 2021
  * Updated Adjacency list so that it actually holds nodes and data not just a list of integers.
- * Updated BFS tree so that is uses nodes to navigate to the next node.
+ *
  */
 public class BFSTest {
     public static void main(String[] args){
